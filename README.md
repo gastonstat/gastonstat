@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gaston Sanchez
 
-<!--
-**gastonstat/gastonstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science and Statistics educator. 
 
-Here are some ideas to get you started:
+<img align='center' src='https://github.com/gastonstat/gastonstat.github.io/blob/master/images/full-scatterplot.png' alt="Decorative abstract scatter plot">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Among other things I ...
+
+- enjoy authoring teaching-learning materials for statistics and data science,
+
+- love using graphical displays to understand data with visualization,
+
+- cherish multivariate methods for exploring, analyzing, and visualizing data in a context of multiple variables and high dimensionality,
+
+- like helping researchers and scientists analyze their data,
+
+- care about computational reproducibility topics,
+
+- believe in and practice open education.
+
+To know more about me and my work visit my personal website [https://www.gastonsanchez.com](https://www.gastonsanchez.com)
+
+<img align='center' src='https://github.com/gastonstat/gastonstat.github.io/blob/master/images/full-bars.png' alt="Decorative asbtract barchart">
