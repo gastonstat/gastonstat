@@ -1,7 +1,8 @@
 # Gaston Sanchez
 
-I'm a Data Science and Statistics educator. 
+Data Science and Statistics educator. 
 
+<!--
 <img align='center' src='https://github.com/gastonstat/gastonstat.github.io/blob/master/images/full-scatterplot.png' alt="Decorative abstract scatter plot">
 
 Among other things I ...
@@ -17,6 +18,7 @@ Among other things I ...
 - care about computational reproducibility topics,
 
 - believe in and practice open education.
+-->
 
 To know more about me and my work visit my personal website [https://www.gastonsanchez.com](https://www.gastonsanchez.com)
 
