@@ -20,6 +20,6 @@ Among other things I ...
 - believe in and practice open education.
 -->
 
-To know more about me and my work visit my personal website [https://www.gastonsanchez.com](https://www.gastonsanchez.com)
+More about me at [https://www.gastonsanchez.com](https://www.gastonsanchez.com)
 
 <img align='center' src='https://github.com/gastonstat/gastonstat.github.io/blob/master/images/full-bars.png' alt="Decorative asbtract barchart">
